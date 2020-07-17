@@ -1,0 +1,36 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": false,
+  "name": "首頁",
+  "chatBarText": "功能選單",
+  "areas": [
+    {
+      "bounds": {
+        "x": 106,
+        "y": 763,
+        "width": 1377,
+        "height": 343
+      },
+      "action": {
+        "type": "postback",
+        "text": "查詢二手機價格",
+        "data": "資料 1"
+      }
+    },
+    {
+      "bounds": {
+        "x": 106,
+        "y": 1212,
+        "width": 1377,
+        "height": 347
+      },
+      "action": {
+        "type": "message",
+        "text": "範圍 2"
+      }
+    }
+  ]
+}

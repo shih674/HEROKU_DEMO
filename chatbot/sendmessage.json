@@ -1,0 +1,42 @@
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "title": "標題",
+        "text": "文字",
+        "actions": [
+          {
+            "type": "message",
+            "label": "動作 1",
+            "text": "動作 1"
+          },
+          {
+            "type": "message",
+            "label": "動作 2",
+            "text": "動作 2"
+          }
+        ]
+      },
+      {
+        "title": "標題",
+        "text": "文字",
+        "actions": [
+          {
+            "type": "message",
+            "label": "動作 1",
+            "text": "動作 1"
+          },
+          {
+            "type": "message",
+            "label": "動作 2",
+            "text": "動作 2"
+          }
+        ]
+      }
+    ]
+  }
+}
