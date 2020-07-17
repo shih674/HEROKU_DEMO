@@ -1,0 +1,21 @@
+{
+  "type": "imagemap",
+  "baseUrl": "https://i.imgur.com/lRAVpQ9.jpg",
+  "altText": "This is an imagemap",
+  "baseSize": {
+    "width": 1040,
+    "height": 868
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 66,
+        "y": 40,
+        "width": 932,
+        "height": 523
+      },
+      "text": "機車"
+    }
+  ]
+}
